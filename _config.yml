@@ -1,0 +1,36 @@
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "dark"   # options: default, air, aqua, contrast, dark, dirt, mint, neon, plum, sunrise
+
+title: "Samuel — IT & Cybersecurity Portfolio"
+name: "Samuel"
+description: "Postgraduate cybersecurity student. CCNA and AWS Solutions Architect certified."
+url: "https://samokon02.github.io"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+author:
+  name: "Samuel"
+  bio: "Cybersecurity postgrad based in the North East of England."
+  location: "Durham / Sunderland, UK"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/samokon02"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/samokon02"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
