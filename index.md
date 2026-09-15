@@ -1,7 +1,11 @@
 ---
 layout: home
 author_profile: true
-title: "Projects"
+title: "Samuel — IT & Cybersecurity Portfolio"
 ---
 
-Welcome — I'm Samuel Okon, a postgraduate cybersecurity student. Below are write-ups of my recent technical work across security, networking, and cloud.
+Postgraduate cybersecurity student with a **CCNA** and **AWS Solutions Architect** certification. I build and document projects across networking, security, and cloud — bringing together enterprise network design, applied cybersecurity, and cloud architecture.
+
+[**View my projects →**](/projects/){: .btn .btn--primary .btn--large}
+
+## Recent write-ups
